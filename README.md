@@ -56,7 +56,7 @@ adb shell am broadcast -a com.zjdroid.invoke --ei target pid --es cmd '{"action"
 luajava相关使用方法：
 http://www.keplerproject.org/luajava/
 
-8、敏感API调用监控
+8、敏感API调用监控。
 
 
 三、相关命令执行结果查看：
